@@ -1,8 +1,8 @@
 class Vex < Formula
   desc "Fast hybrid structural + semantic code search (vector + index)"
   homepage "https://github.com/tenatarika/vex"
-  url "https://github.com/tenatarika/vex/archive/refs/tags/v1.6.4.tar.gz"
-  sha256 "b8d8a402d95557d1de80b116a1afa7ecde514664e21f95df00cabc06b042f5e5"
+  url "https://github.com/tenatarika/vex/archive/refs/tags/v1.8.0.tar.gz"
+  sha256 "7db946a96c626686eda74a180dc48ad2d9ce79753e8f32125aaee7cf6e347589"
   license "MIT"
   head "https://github.com/tenatarika/vex.git", branch: "main"
 
