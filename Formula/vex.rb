@@ -7,14 +7,14 @@ class Vex < Formula
   on_macos do
     on_arm do
       url "https://github.com/tenatarika/vex/releases/download/v1.21.0/vex-aarch64-apple-darwin.tar.gz"
-      sha256 "978b490991b8e2c8c15ae570d9475b3e502430dc657d282b4123ceddd1204f2a"
+      sha256 "3d64134b78ac2788fb03e40cd44037ca0f5304b42eeb0e5cbfc55c8922b57b7b"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/tenatarika/vex/releases/download/v1.21.0/vex-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "979bdda9e32f269f0d63ddefa609531c0ec612bb6b5b6e9f64c47a630b697a32"
+      sha256 "a159ae445d0744922a07c09d78a66bdeeff233d8a9f99f5e9fc2701c9e816004"
     end
   end
 
