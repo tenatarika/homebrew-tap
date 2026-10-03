@@ -1,20 +1,20 @@
 class Vex < Formula
   desc "Fast hybrid structural + semantic code search (vector + index)"
   homepage "https://github.com/tenatarika/vex"
-  version "1.27.0"
+  version "1.27.1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/tenatarika/vex/releases/download/v1.27.0/vex-aarch64-apple-darwin.tar.gz"
-      sha256 "c223199bcb4f355b9cd731f5f558c9b73b40232cd05606dc8e3907b19ca3a811"
+      url "https://github.com/tenatarika/vex/releases/download/v1.27.1/vex-aarch64-apple-darwin.tar.gz"
+      sha256 "9e90ed0770307d848a2c9b4fc4b9f414b1bfa7ebf6df6694bed168d5e6dc833d"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/tenatarika/vex/releases/download/v1.27.0/vex-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "caf0eb8776136961b78b47df081e7d4b03c7c50a2b089030b5e45d7dbfe93ccd"
+      url "https://github.com/tenatarika/vex/releases/download/v1.27.1/vex-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "2dda29e401835105abb7a365d0f8186384814e2caf7432d5d31848da05a19091"
     end
   end
 
